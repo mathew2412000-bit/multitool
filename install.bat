@@ -76,7 +76,6 @@ if %errorlevel% neq 0 (
     echo.
     echo [+] Installation complete!
     echo [+] Run the tool with Fulcon_Launcher.exe
-    echo [+] Create an account on first launch
 )
 
 echo.
